@@ -30,10 +30,13 @@ class ItemCollectionViewCell: UICollectionViewCell {
         ImageLoader.loadImage(from: product.image, into: ImgItem, showLoader: true)
     }
     
-    @IBAction func btnAddCart(_ sender: Any) {
-        guard let product = product else { return }
-                
-         CoreDataManager.shared.createCartItem(productName: product.name, quantity: 1, unitPrice: product.price, imageUrl: product.image)
+    @IBAction func btnAddCart(_ sender: UIButton) {
         
+        AnimationHelper.animateButtonClick(for: sender) {
+            guard let product = self.product else { return }
+            
+            CoreDataManager.shared.createCartItem(productName: product.name, quantity: 1, unitPrice: product.price, imageUrl: product.image)
+            
+        }
     }
 }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		825E2E952B7E07F100CC4AC0 /* ButtonAnimationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825E2E942B7E07F100CC4AC0 /* ButtonAnimationHelper.swift */; };
 		8297EBD32B7D1D6D00B805C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297EBD22B7D1D6D00B805C1 /* AppDelegate.swift */; };
 		8297EBD52B7D1D6D00B805C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297EBD42B7D1D6D00B805C1 /* SceneDelegate.swift */; };
 		8297EBDA2B7D1D6D00B805C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8297EBD82B7D1D6D00B805C1 /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		825E2E942B7E07F100CC4AC0 /* ButtonAnimationHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAnimationHelper.swift; sourceTree = "<group>"; };
 		8297EBCF2B7D1D6D00B805C1 /* GoShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8297EBD22B7D1D6D00B805C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8297EBD42B7D1D6D00B805C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 			children = (
 				8297EBFC2B7D456600B805C1 /* ImageLoader.swift */,
 				8297EC212B7DE18C00B805C1 /* AlertHelper.swift */,
+				825E2E942B7E07F100CC4AC0 /* ButtonAnimationHelper.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 			files = (
 				8297EBFA2B7D3D0500B805C1 /* ProductViewModel.swift in Sources */,
 				8297EC202B7DCEE700B805C1 /* CartCell.swift in Sources */,
+				825E2E952B7E07F100CC4AC0 /* ButtonAnimationHelper.swift in Sources */,
 				8297EBEB2B7D2F1000B805C1 /* ItemCollectionViewCell.swift in Sources */,
 				8297EC222B7DE18C00B805C1 /* AlertHelper.swift in Sources */,
 				8297EBF82B7D3CCA00B805C1 /* ProductModel.swift in Sources */,
