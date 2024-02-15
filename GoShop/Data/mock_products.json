@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Electronics",
+      "price": 99.99,
+      "image": "https://picsum.photos/id/0/367/267"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "category": "Clothing",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/1/367/267"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "category": "Electronics",
+      "price": 199.99,
+      "image": "https://picsum.photos/id/2/367/267"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "category": "Home & Kitchen",
+      "price": 79.99,
+      "image": "https://picsum.photos/id/3/367/267"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "category": "Sports & Outdoors",
+      "price": 149.99,
+      "image": "https://picsum.photos/id/4/367/267"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "category": "Clothing",
+      "price": 29.99,
+      "image": "https://picsum.photos/id/5/367/267"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "category": "Electronics",
+      "price": 299.99,
+      "image": "https://picsum.photos/id/6/367/267"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "category": "Home & Kitchen",
+      "price": 59.99,
+      "image": "https://picsum.photos/id/7/367/267"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "category": "Electronics",
+      "price": 129.99,
+      "image": "https://picsum.photos/id/8/367/267"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "category": "Beauty & Personal Care",
+      "price": 39.99,
+      "image": "https://picsum.photos/id/9/367/267"
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "category": "Home & Kitchen",
+      "price": 89.99,
+      "image": "https://picsum.photos/id/10/367/267"
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "category": "Sports & Outdoors",
+      "price": 179.99,
+      "image": "https://picsum.photos/id/11/367/267"
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "category": "Electronics",
+      "price": 249.99,
+      "image": "https://picsum.photos/id/12/367/267"
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "category": "Clothing",
+      "price": 69.99,
+      "image": "https://picsum.photos/id/13/367/267"
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "category": "Home & Kitchen",
+      "price": 119.99,
+      "image": "https://picsum.photos/id/14/367/267"
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "category": "Electronics",
+      "price": 159.99,
+      "image": "https://picsum.photos/id/15/367/267"
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "category": "Sports & Outdoors",
+      "price": 219.99,
+      "image": "https://picsum.photos/id/16/367/267"
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "category": "Electronics",
+      "price": 349.99,
+      "image": "https://picsum.photos/id/17/367/267"
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "category": "Home & Kitchen",
+      "price": 99.99,
+      "image": "https://picsum.photos/id/18/367/267"
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "category": "Beauty & Personal Care",
+      "price": 49.99,
+      "image": "https://picsum.photos/id/19/367/267"
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "category": "Clothing",
+      "price": 199.99,
+      "image": "https://picsum.photos/id/20/367/267"
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "category": "Electronics",
+      "price": 79.99,
+      "image": "https://picsum.photos/id/21/367/267"
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "category": "Home & Kitchen",
+      "price": 149.99,
+      "image": "https://picsum.photos/id/22/367/267"
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "category": "Sports & Outdoors",
+      "price": 29.99,
+      "image": "https://picsum.photos/id/23/367/267"
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "category": "Electronics",
+      "price": 299.99,
+      "image": "https://picsum.photos/id/24/367/267"
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "category": "Beauty & Personal Care",
+      "price": 59.99,
+      "image": "https://picsum.photos/id/25/367/267"
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "category": "Clothing",
+      "price": 129.99,
+      "image": "https://picsum.photos/id/26/367/267"
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "category": "Home & Kitchen",
+      "price": 39.99,
+      "image": "https://picsum.photos/id/27/367/267"
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "category": "Electronics",
+      "price": 89.99,
+      "image": "https://picsum.photos/id/28/367/267"
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "category": "Sports & Outdoors",
+      "price": 179.99,
+      "image": "https://picsum.photos/id/29/367/267"
+    }
+  ]
+}
